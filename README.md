@@ -10,7 +10,7 @@ Make sure you have the following libraries installed:
 - json 
 - urllib (however, it's part of Python standard libraries)
 
-## Usage Instructions
+## Usage Instructions 
 
 1. **Set Up the Code**:
    - The script requires identification about the user you want to report. When you run the script, you will be prompted to input the target user ID.
