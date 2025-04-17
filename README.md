@@ -5,7 +5,7 @@ This Python script uses the `requests` library to interact with the TikTok API t
 ## Requirements
 
 Make sure you have the following libraries installed: 
-
+ 
 - requests
 - json    
 - urllib (however, it's part of Python standard libraries)
